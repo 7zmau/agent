@@ -88,8 +88,9 @@ poetry install
  Obtain the project files by cloning the repository.
 
    ```
-   git clone 
-   cd AGENT
+   git clone https://github.com/7zmau/agent.git
+   cd agent
+   python agent.py
    ```
 
-`python agent.py`
+
